@@ -1,5 +1,3 @@
-module github.com/Iwayemi-Kehinde/Golang-React-Todo
-
 go 1.22.4
 
 require (
